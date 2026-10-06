@@ -1,0 +1,22 @@
+{
+    "dipti@gmail.com": {
+        "name": "Dipti Dasharath Morajkar",
+        "password": "123",
+        "college": "FAMT Ratnagiri",
+        "branch": "Computer Science (AI & ML)",
+        "streak": 1,
+        "doubts_solved": 1,
+        "quiz_attempts": 0,
+        "retention_score": null
+    },
+    "morajkardipti23@gmail.com": {
+        "name": "Dipti Dasharath Morajkar",
+        "password": "Dipti@123",
+        "college": "",
+        "branch": "Computer Science (AI & ML)",
+        "streak": 1,
+        "doubts_solved": 1,
+        "quiz_attempts": 5,
+        "retention_score": 100
+    }
+}
